@@ -1,0 +1,28 @@
+{
+  "name": "proofofconcept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinheadmz/proofofconcept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinheadmz/proofofconcept/issues"
+  },
+  "homepage": "https://github.com/pinheadmz/proofofconcept#readme",
+  "dependencies": {
+    "bcfg": "^0.1.7",
+    "bfile": "^0.2.2",
+    "blgr": "^0.2.0",
+    "bweb": "^0.1.10"
+  }
+}
